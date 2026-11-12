@@ -1,6 +1,6 @@
-# EAAI Reproducibility Archive v2.1.0
+# EAAI Reproducibility Archive v2.1.1
 
-Tag: `v2.1.0-eaai-reproducibility`.
+Tag: `v2.1.1-eaai-reproducibility`.
 Archive author: Mohammed Alabdullah (ORCID 0009-0001-0826-4380).
 
 ## Scope
@@ -51,3 +51,7 @@ python3 journal_eaai/tools/reproduce_endpoints.py
 ```
 
 Details are in `journal_eaai/README.md` and `journal_eaai/REPRODUCIBILITY.md`.
+
+## v2.1.1 metadata-only update
+
+This release is scientifically identical to v2.1.0. It updates archive-version metadata only so that the GitHub release can be captured by the already-enabled Zenodo integration. No frozen result, analysis output, figure, table, configuration, or scientific conclusion was changed.
